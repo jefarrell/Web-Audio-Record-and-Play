@@ -1,8 +1,8 @@
 Web-Audio-Record-and-Play
 =========================
 # Live Web - ITP NYU
-> Live audio recording and playback
+> Live audio recording and playback, with wav file download capability
 > 
-> Uses node.js, socket.io, recorderjs
+> Built with node.js, socket.io & recorderjs
 > 
 > npm install node, npm install socket.io
