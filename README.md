@@ -5,4 +5,4 @@ Web-Audio-Record-and-Play
 > 
 > Built with node.js, socket.io & recorderjs
 > 
-***** npm install node, npm install socket.io
+`npm install node, npm install socket.io`
